@@ -1,6 +1,8 @@
 # CurdsBlue
 this is CRUD operation (create , retrieve, update, delet )
 
+https://oniseg.github.io/CurdsBlue/
+
 you can edit like this 
 
 ![image](https://user-images.githubusercontent.com/35266228/207597446-8a4588f8-009f-4065-bc6f-f2262844e9a4.png)
